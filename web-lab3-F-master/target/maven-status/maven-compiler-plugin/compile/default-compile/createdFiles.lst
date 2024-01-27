@@ -1,0 +1,9 @@
+com\example\weblab3\bean\XBean.class
+com\example\weblab3\bean\AreaChecker.class
+com\example\weblab3\bean\Result.class
+com\example\weblab3\bean\RBean.class
+com\example\weblab3\HelloServlet.class
+com\example\weblab3\DB\PaginationHelper.class
+com\example\weblab3\bean\YBean.class
+com\example\weblab3\bean\DataBaseEJB.class
+com\example\weblab3\DB\DataBase.class
